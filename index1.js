@@ -1,4 +1,5 @@
-// given a function add to numbers in an array
+// Write a function thate given an array of numbers returns the sum of all numbers
+
 
 const addUpToNumber = (arr1) => {
     let sum = 0
